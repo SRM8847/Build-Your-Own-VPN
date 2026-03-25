@@ -2,7 +2,7 @@
 
 Deploy a secure, private VPN using **OpenVPN Access Server on AWS EC2**.  
 This project demonstrates how to build, configure, and use your own VPN for encrypted communication and full control over your network traffic.
-
+📄 [View Full Step-by-Step Guide](./create-your-own-vpn.pdf)
 ---
 
 ## Overview
